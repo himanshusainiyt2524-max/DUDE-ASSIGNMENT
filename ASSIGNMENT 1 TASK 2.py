@@ -1,0 +1,5 @@
+namef=input("enter your first name: ")
+namel=input("enter your last name: ")
+print("enter your first name:",namef)
+print("enter your last name:",namel)
+print("hello"",",namef,namel,"!","wellcom to python")
